@@ -5,7 +5,7 @@ import socketIO from 'socket.io-client';
 
 
 const socket = socketIO.connect('http://localhost:4000');
-import './App.css';
+// import './App.css';
 
 function App() {
  
